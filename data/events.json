@@ -1,1 +1,1 @@
-[null,{"name":"JOIN","temp":"","event-type":"1","actions":[{"gameName":"Commands mk!Help ","gameLink":"","name":"Set Bot Game"}]}]
+[null,{"name":"JOIN","temp":"","event-type":"1","actions":[{"gameName":"Commands mk!Help ","gameLink":"","name":"Set Bot Game"}]},{"name":"Witam","temp":"Elo","event-type":"2","actions":[{"channel":"4","varName":"","message":"Co to za kultura? Mówi się \"dzień dobry\", a nie \"elo\"","storage":"0","varName2":"","name":"Send Message"},{"name":"End Action Sequence"}]}]
